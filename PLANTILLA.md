@@ -1,25 +1,18 @@
-# Bitácora — <Nombre del proyecto>
+# <Nombre del proyecto> — AAAA-MM-DD
 
-**Fecha:** AAAA-MM-DD
+<!-- Ficha que acompaña a los archivos de esta entrada.
+     Guárdala como README.md dentro de la carpeta de la entrada. -->
+
 **Autor:** <nombre>
-**Duración aprox.:** <horas>
+**Tipo:** <informe / acta / avance / entrega / otro>
 
-## Objetivo de la sesión
-<!-- Qué querías lograr hoy, en una o dos líneas. -->
+## Resumen
+<!-- 2–4 líneas: qué contiene esta entrada. Esto es lo que se puede buscar en GitHub; el PDF no. -->
 
-## Qué se hizo
-- 
+## Archivos
+| Archivo | Descripción |
+|---|---|
+| `documento.pdf` | |
 
-## Decisiones tomadas
-<!-- Qué se decidió y por qué. Lo que no se escribe aquí se olvida. -->
-- 
-
-## Bloqueos / problemas
-- 
-
-## Siguientes pasos
-- [ ] 
-
-## Enlaces
-<!-- Commits, PRs, documentos, tickets relacionados. -->
+## Decisiones / pendientes
 - 

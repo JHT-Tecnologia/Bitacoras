@@ -1,2 +1,2 @@
-# Bit-coras
+# Bitacoras
 Bitácoras de desarrollo y proyectos
